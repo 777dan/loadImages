@@ -1,0 +1,20 @@
+#wrap {
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 32px;
+}
+
+img {
+    width: 50%;
+}
